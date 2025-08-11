@@ -24,7 +24,7 @@ Developer who loves tinkering with 🐍 Python, 🖥️ C#, 📱 Flutter & co. W
 
 ## 📫 Connect with Me
 
-[!elfouzari.soufian@gmail.com
+elfouzari.soufian@gmail.com
 
 ---
 
