@@ -16,10 +16,9 @@
 
 ## 📌 About Me
 
-- 🔭 I’m currently working on: **[Your Project or Product Name]**
-- 🌱 I’m learning: **[New tech or skill]**
-- 💬 Ask me about: Web, Mobile, and Desktop app development
-- ⚡ Fun fact: I turn ☕ into code
+Developer who loves tinkering with 🐍 Python, 🖥️ C#, 📱 Flutter & co. Web, mobile, desktop, *as long as it works and is fun. Always experimenting and learning*.
+
+
 
 ---
 
