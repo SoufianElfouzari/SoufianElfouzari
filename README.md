@@ -11,8 +11,8 @@ I love tinkering, learning new things, and trying out new ideas.
 🐍 Python | 🖥️ C# | 📱 Flutter | ⚡ JS/TS | ⚛️ React | ❤️ Ruby
 
 ---
-[![Top Languages](https://language-stats-bay.vercel.app/api/top-langs?username=SoufianElfouzari)
-](https://language-stats-bay.vercel.app/api/top-langs?username=SoufianElfouzari)
+![Top Languages](https://language-stats-bay.vercel.app/api/top-langs?username=SoufianElfouzari)
+
 
 ### Contact
 
