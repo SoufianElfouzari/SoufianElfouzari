@@ -1,18 +1,39 @@
-# Hey, I'm Soufian El-Fouzari 👋
+# Soufian El-Fouzari
 
-I build stuff with Python, C#, Flutter, and more.  
-Web, mobile, desktop, as long as it works and is fun.  
+Software Developer specializing in Python, Flutter, and modern application development.
+
+I build reliable and scalable applications across web, mobile, and desktop platforms. My current focus is improving system design skills and actively contributing to open source projects.
+
+---
+
+## Tech Stack
+
+* Python
+* C#
+* Flutter
+* JavaScript / TypeScript
+* React
+* Ruby
+* Appwrite
+* Firebase
+* Azure
 
 ---
 
-### My Tools
+## Current Focus
 
-🐍 Python | 🖥️ C# | 📱 Flutter | ⚡ JS/TS | ⚛️ React | ❤️ Ruby
+* Building production ready applications
+* Contributing to open source
+* Writing clean, maintainable, and scalable code
 
 ---
+
+## GitHub Stats
+
 ![Top Languages](https://language-stats-bay.vercel.app/api/top-langs?username=SoufianElfouzari)
 
+---
 
-### Contact
+## Contact
 
-Feel free to reach out: elfouzari.soufian@gmail.com
+Email: [elfouzari.soufian@gmail.com](mailto:elfouzari.soufian@gmail.com)
