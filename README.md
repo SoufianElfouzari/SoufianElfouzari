@@ -1,6 +1,6 @@
 # Soufian El-Fouzari
 
-I have been building software for the past 6 years, specializing in Flutter and Python.
+I have been building software for the past 7 years, specializing in Flutter and Python.
 
 I focus on building scalable applications across web, mobile, and desktop.
 
