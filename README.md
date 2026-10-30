@@ -43,8 +43,7 @@ I focus on building scalable applications across web, mobile, and desktop.
 
 ## GitHub Stats
 
-![Top Languages](https://language-stats-bay.vercel.app/api/top-langs?username=SoufianElfouzari)
-
+![GitHub Stats](https://streak-stats.demolab.com?user=SoufianElfouzari&theme=radical&hide_border=true)
 ---
 
 ## Contact
